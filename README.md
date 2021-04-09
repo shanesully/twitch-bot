@@ -1,6 +1,12 @@
 # twitch-bot
 A script to increase my friend's Twitch viewership
 
+The script follows the Twitch API doc:
+
+https://dev.twitch.tv/docs
+
+It uses OAuth for authentication
+
 # Setup
 To run the script, first install the dependencies:
 

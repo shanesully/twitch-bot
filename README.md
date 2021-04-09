@@ -10,4 +10,6 @@ source env.sh
 
 To run the script execute it with Python:
 
+```bash
 python3 snuggly.py
+```
